@@ -14,6 +14,8 @@
 <img src="https://img.icons8.com/?size=512&id=40670&format=png" alt="c" width="300" height="300">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="py" width="300" height="300">
 
+![Dimonchikous's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimonchikous&show_icons=true&theme=radical)
+
 ---
 
 ## My computers
