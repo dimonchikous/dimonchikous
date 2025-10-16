@@ -65,3 +65,9 @@ Programming languages:
 
 # Thank you for visiting my profile!
 ![alyabye](https://i0.wp.com/anitrendz.net/news/wp-content/uploads/2024/09/Alya-Sometimes-Hides-Her-Feelings-in-Russian-Episode-12-Alya.png)
+
+
+
+
+
+
